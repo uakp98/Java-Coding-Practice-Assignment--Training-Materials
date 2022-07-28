@@ -87,16 +87,17 @@ Write all Armstrong numbers between 100 to 500.</li>
 </ol>
 
 
-<!--
+
 ### Best Pattern Questions in Java (Begineers and Advanced level) 
 <ol>
-  <li>Solid Rectangle & Nested Loops
-Hollow Rectangle - 10:38
-Half Pyramid - 18:23
-Inverted half Pyramid - 23:47
-Inverted & Rotated Half Pyramid - 26:50
-Half Pyramid with Numbers - 33:45
-Inverted Half Pyramid with Numbers - 38:21
-Floyd's Triangle - 44:36
-0-1 Triangle - 48:45
--->
+  <li>Solid Rectangle & Nested Loops -</li>
+  <li>Hollow Rectangle -</li>
+  <li>Half Pyramid -</li>
+  <li>Inverted half Pyramid -</li>
+  <li>Inverted & Rotated Half Pyramid -</li>
+  <li>Half Pyramid with Numbers -</li>
+  <li>Inverted Half Pyramid with Numbers -</li>
+  <li>Floyd's Triangle -</li>
+  <li>0-1 Triangle -</li>
+</ol>
+
